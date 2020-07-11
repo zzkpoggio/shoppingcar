@@ -3,7 +3,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-    <title>购物柜台</title>
+    <title>购物网站</title>
 </head>
 <body>
 <form method="post" action="send car.jsp" name="myform">
@@ -22,21 +22,21 @@
     <hr color="gray"/>
     <p>
         &nbsp;
-        <input type="checkbox" value="水笔" name="item">&nbsp; 水笔 			</p>
+        <input type="checkbox" value="篮球" name="item">&nbsp; 篮球 			</p>
     <p>
         &nbsp;
-        <input type="checkbox" value="铅笔" name="item">&nbsp;
-        铅笔
+        <input type="checkbox" value="足球" name="item">&nbsp;
+        足球
     </p>
     <p>
         &nbsp;
-        <input type="checkbox" value="圆珠笔" name="item">
-        圆珠笔				<br>
+        <input type="checkbox" value="乒乓球" name="item">
+        乒乓球				<br>
     </p>
     <p>
         &nbsp;
-        <input type="checkbox" value="彩笔" name="item">
-        彩笔
+        <input type="checkbox" value="网球" name="item">
+        网球
     </p>
     <p>
         &nbsp;

@@ -9,7 +9,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-    <title>购物车页面</title>
+    <title>购物车主页面</title>
 </head>
 <body>
 <form method="post" name="myform1">
